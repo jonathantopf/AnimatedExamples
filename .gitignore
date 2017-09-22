@@ -1,4 +1,4 @@
-/[Ll]ibrary/
+*Library/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
@@ -32,3 +32,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+*AnimatedExamples_AE*
